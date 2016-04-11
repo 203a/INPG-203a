@@ -1,0 +1,10 @@
+,>,>++++++[-<--------<-------->>] przechowuje dwie cyfry w (0) i (1) od obu odejmujemy 48
+<<[                               powtarzaj dopóki dzielna jest niezerowa
+>[->+>+<<]                        kopiuj dzielnik z (1) do (2) i (3) (1) siê zeruje
+>[-<<-                            odejmujemy 1 od dzielnej (0) i dzielnika (2) dopóki (2) nie jest 0
+[>]>>>[<[>>>-<<<[-]]>>]<<]        je¿eli dzielna jest zerem wyjdŸ z pêtli
+>>>+                              dodaj jeden do ilorazu w (5)
+<<[-<<+>>]                        kopiuj zapisany dzielnik z (3) do (1)
+<<<]                              przesuñ wskaŸnik na (0) i powtórz pêtlê
+>[-]>>>>[-<<<<<+>>>>>]            kopiuj iloraz z (5) do (0)
+<<<<++++++[-<++++++++>]<.         dodaj 48 i drukuj wynik
